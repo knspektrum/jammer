@@ -1,0 +1,1 @@
+# O Sdrach ogólnie
