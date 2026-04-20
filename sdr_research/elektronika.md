@@ -1,1 +1,7 @@
 # Elektronika
+Z elektroniki potrzebujemy:
+generator sygnału: odpowiedzialny jest za generowanie sygnału zakłócającego, który emituje jammer. Urządzenie to wytwarza specyfyczny sygnał potrzebny do zaburzenia docelowej częstotliwości komunikacyjnej. Odgrywa również rolę w modulacji częstotliwości. W niektórych przypadkach może przesuwać częstotliwość zakłóceń, aby zapewnić skuteczne zrywanie komunikacji w szerokim zakresie częstotliwości. Zaawansowane zagłuszacze wykorzystują pętle synchronizacji fazy (PLL) i oscylatory szerokopasmowe, aby pokryć wiele pasm komunikacyjnych, takich jak GPS, sieci komórkowe i Wi-Fi.
+Wzmacniac sygnału zakłócającego: Po wygenerowaniu sygnału musi on zostać wzmocniony, aby zapewnić mu moc wystarczającą do skutecznego zagłuszenia systemu docelowego. Wzmacniacze mocy pobierają słaby sygnał zakłócający wytwarzany przez oscylator i zwiększają jego siłę, aby zakłócić system na większym obszarze.
+Kontroler lub Procesor: centralna jednostka dowodzenia zagłuszacza. Zarządza działaniem wszystkich komponentów, dbając o to, by współpracowały ze sobą synchronicznie w celu uzyskania optymalnej wydajności.
+System chłodzący: Zagłuszacze o dużej mocy generują znaczne ilości ciepła, zwłaszcza podczas ciągłej pracy lub w wymagających środowiskach. Niezawodny system chłodzenia jest niezbędny, aby zapobiec przegrzaniu i zagwarantować funkcjonowanie urządzenia przez dłuższy czas.
+Schematy i artykuły są w linkach wpliku
